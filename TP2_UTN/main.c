@@ -4,8 +4,6 @@
 #include "empleado.h"
 #include "utn.h"
 #define CANTIDAD_ESPACIOS 5
-#define SORT_UP 1
-#define SORT_DOWN 0
 int main()
 {
     int opcion;
