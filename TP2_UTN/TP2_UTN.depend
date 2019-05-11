@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1557540253 source:c:\users\miguea11\desktop\carpeta_trabajo\tp2_utn\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"utn.h"
+
+1557539542 c:\users\miguea11\desktop\carpeta_trabajo\tp2_utn\empleado.h
+
+1557527789 c:\users\miguea11\desktop\carpeta_trabajo\tp2_utn\fantasma.h
+
+1557450012 c:\users\miguea11\desktop\carpeta_trabajo\tp2_utn\utn.h
+
+1557527997 source:c:\users\miguea11\desktop\carpeta_trabajo\tp2_utn\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557527968 source:c:\users\miguea11\desktop\carpeta_trabajo\tp2_utn\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557525196 source:c:\users\miguea11\desktop\carpeta_trabajo\tp2_utn\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"fantasma.h"
+	"utn.h"
+
+1557540085 source:c:\users\miguea11\desktop\carpeta_trabajo\tp2_utn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"utn.h"
+
+1557530394 source:c:\users\miguea11\desktop\carpeta_trabajo\tp2_utn\informeempleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"utn.h"
+
